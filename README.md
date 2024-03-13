@@ -4,7 +4,7 @@
  ![alt text](plotly.png)
 
 
-This repository contains 
+This repository contains data loading and preprocessing steps undertaken to gather information for subsequent analysis and visualization and exercises for creating various types of charts and plots. 
 
     ## Contents
 
